@@ -237,3 +237,6 @@ Planowane funkcjonalności:
 - Wsparcie dla kodów Data Matrix i innych formatów
 - Tryb wsadowego przetwarzania
 - Integracja z usługami chmurowymi
+=======
+# QR_Generator
+>>>>>>> 57113f0e8aacb9f74391afbc9d6876d6545596c5
